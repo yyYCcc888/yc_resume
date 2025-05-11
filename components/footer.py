@@ -4,7 +4,7 @@ def display_footer():
     """Display a consistent footer across all pages"""
     footer = """
     <div class="footer">
-        <p>© 2023 Sarah Johnson | <a href="mailto:sarah.johnson@example.com" style="color: #2C3E50; text-decoration: none;">Contact</a> | Last updated: May 2023</p>
+        <p>© 2025 CHAN Yin Sen | <a href="mailto:1378188281@qq.com" style="color: #2C3E50; text-decoration: none;">Contact</a> | Last updated: May 2025</p>
     </div>
     
     <style>
